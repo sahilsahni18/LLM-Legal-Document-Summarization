@@ -1,0 +1,13 @@
+transformers
+peft
+sentence-transformers
+faiss-cpu
+pandas
+fastapi
+uvicorn
+torch
+pdf2image
+pytesseract
+opencv-python
+streamlit
+shap
